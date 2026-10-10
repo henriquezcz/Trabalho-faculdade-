@@ -30,3 +30,4 @@ Variáveis opcionais: `MONGO_URI`, `SQLITE_PATH`.
 ## Equipe
 
 - [nomes dos integrantes]
+#luiz henrique da paz Silva
